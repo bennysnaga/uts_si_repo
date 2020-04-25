@@ -143,11 +143,11 @@
             <h3 class="resume-title">Wilda Rahmina</h3>
             <div class="resume-item pb-0">
               <h4>Marketing</h4>
-              <p><em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ipsa dolorum, id fugiat, minima eligendi iste aut illum aliquid nihil saepe ea excepturi non corrupti quibusdam? Minima temporibus nisi tempora.</em></p>
+              <p><em>Seorang Mahasiswa S1 Ilmu Komputer Universitas Utara</em></p>
               <ul>
-                <li>Alamat</li>
-                <li>Nomor Telp</li>
-                <li>Email</li>
+                <li>Jl.Universitas No.95 Asrama Putri USU</li>
+                <li>+62823-9794-1635</li>
+                <li>wildarahmina7856@gmail.com</li>
               </ul>
               </ul>
               </p>
