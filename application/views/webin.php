@@ -206,7 +206,7 @@
         <div class="section-title">
           <span>Contact Us</span>
           <h2>Contact Us</h2>
-          <p>Telp: </p>
+          <p>Senin - Jumat<br>09.00 - 17.00</p>
         </div>
 
         <div class="row">
