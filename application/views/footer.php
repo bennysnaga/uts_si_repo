@@ -1,7 +1,7 @@
 <footer id="footer">
     <div class="container">
       <h3>Webin Aja</h3>
-      <p>Ini juga isi lah bingung aku mau bikin apa.</p>
+      <p>Jl. Universitas No. 9A Kampus USU, Medan</p>
       <div>
        <strong><span>Webin Aja</span></strong>. UTS Sistem Informasi Lab 4
       </div>  
