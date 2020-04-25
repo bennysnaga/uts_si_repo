@@ -116,12 +116,12 @@
             <h3 class="resume-title">Devinaraj Kaur</h3>
             <div class="resume-item pb-0">
               <h4>Web Designer</h4>
-              <p><em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ipsa dolorum, id fugiat, minima eligendi iste aut illum aliquid nihil saepe ea excepturi non corrupti quibusdam? Minima temporibus nisi tempora.</em></p>
+              <p><em>Seorang Mahasiswa S1 Ilmu Komputer Universitas Sumatera Utara.</em></p>
               <p>
               <ul>
-                <li>Alamat</li>
-                <li>Nomor Telp</li>
-                <li>Email</li>
+                <li>Johor Indah permai I blok G-8</li>
+                <li>=6281313004620</li>
+                <li>devinaraj28@gmail.com</li>
               </ul>
               </p>
             </div>
