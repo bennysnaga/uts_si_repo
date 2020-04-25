@@ -120,7 +120,7 @@
               <p>
               <ul>
                 <li>Johor Indah permai I blok G-8</li>
-                <li>=6281313004620</li>
+                <li>+62813-1300-4620</li>
                 <li>devinaraj28@gmail.com</li>
               </ul>
               </p>
