@@ -14,7 +14,7 @@
             <span>Tentang Kami</span>
             <h2  >Tentang Kami</h2>
             
-            <p >Isiin woi</p>
+            <p> Webin Aja menghadirkan jasa pembuatan website kilat dalam waktu 48 jam saja. Layanan ini sesuai digunakan oleh bisnis / perusahaan, organisasi, sekolah, maupun pribadi yang ingin memiliki website dengan cepat namun dapat mendatangkan manfaat secara maksimal. Webin Aja akan menjadi partner terbaik Anda dalam menghadapi Era Digital yang serba teknologi.</p>
           </div>
         </div>
         <div class="row">
