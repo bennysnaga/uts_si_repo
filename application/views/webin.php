@@ -1,7 +1,7 @@
   <section id="hero">
     <div class="hero-container">
       <h1>Webin Aja </h1>
-      <h2>Buat Web anda disini dengan harga mahal agar kami  </h2>
+      <h2>Buat web dengan harga yang terjangkau, kami akan melayanimu sepenuh hati </h2>
     </div>
   </section>
   <main id="main">
