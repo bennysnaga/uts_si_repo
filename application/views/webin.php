@@ -130,11 +130,11 @@
             <h3 class="resume-title">Annisa Mukhri</h3>
             <div class="resume-item pb-0">
               <h4>Web Developer</h4>
-              <p><em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ipsa dolorum, id fugiat, minima eligendi iste aut illum aliquid nihil saepe ea excepturi non corrupti quibusdam? Minima temporibus nisi tempora.</em></p> 
+              <p><em>Seorang Mahasiswa S1 Ilmu Komputer Universitas Sumatera Utara</em></p> 
               <ul>
-                <li>Alamat</li>
-                <li>Nomor Telp</li>
-                <li>Email</li>
+                <li>Jl. Bumi Johor Sentosa, Medan Johor </li>
+                <li>+62813-8362-8452</li>
+                <li>mukhriannisa@gmail.com</li>
               </ul>
               </ul>
               </p>
@@ -206,7 +206,7 @@
         <div class="section-title">
           <span>Contact Us</span>
           <h2>Contact Us</h2>
-          <p>Isiin</p>
+          <p>Telp: </p>
         </div>
 
         <div class="row">
